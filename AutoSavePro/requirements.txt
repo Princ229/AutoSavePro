@@ -1,0 +1,4 @@
+psutil
+pywin32
+watchdog
+PyQt5
