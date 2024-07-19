@@ -42,4 +42,4 @@ applications telles que Photoshop, After Effects, GIMP, Word, Excel, Unity, Blen
 
 ## Contribution
 
-Les contributions sont les bienvenues ! Veuillez consulter le fichier CONTRIBUTING.md pour les détails sur notre code de conduite et le processus de soumission des pull requests. Contactez-moi via aresbillion@gmail.com
+Les contributions sont les bienvenues ! Veuillez consulter le fichier CONTRIBUTING.md pour les détails sur notre code de conduite et le processus de soumission des pull requests. Contactez-moi à l'adresse aresbillion@gmail.com pour plus de précisions.
