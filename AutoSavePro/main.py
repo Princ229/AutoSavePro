@@ -6,6 +6,7 @@ from autosave.gui.main_window import MainWindow
 from PyQt5.QtWidgets import QApplication
 import logging
 
+# Set up logging
 logging.basicConfig(level=logging.DEBUG, format='%(asctime)s - %(levelname)s - %(message)s')
 
 def main():

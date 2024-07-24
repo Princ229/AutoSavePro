@@ -1,8 +1,7 @@
 
 # AutoSavePro
 
-AutoSavePro est une application de sauvegarde automatique multiplateforme qui permet de sauvegarder automatiquement vos travaux dans diverses
-applications telles que Photoshop, After Effects, GIMP, Word, Excel, Unity, Blender, et bien d'autres.
+AutoSavePro est une application de sauvegarde automatique multiplateforme qui permet de sauvegarder automatiquement vos travaux dans diverses applications telles que Photoshop, After Effects, GIMP, Word, Excel, Unity, Blender, et bien d'autres.
 
 ## Fonctionnalités
 
@@ -21,11 +20,11 @@ applications telles que Photoshop, After Effects, GIMP, Word, Excel, Unity, Blen
 
 1. Clonez ce dépôt :
    ```
-   git clone https://github.com/Princ229/AutAutoSavePro.git
+   git clone https://github.com/Princ229/AutoSavePro.git
    ```
 2. Naviguez dans le dossier du projet :
    ```
-   cd AutoSavPro
+   cd AutoSavePro
    ```
 3. Installez les dépendances :
    ```
@@ -42,4 +41,5 @@ applications telles que Photoshop, After Effects, GIMP, Word, Excel, Unity, Blen
 
 ## Contribution
 
-Les contributions sont les bienvenues ! Veuillez consulter le fichier CONTRIBUTING.md pour les détails sur notre code de conduite et le processus de soumission des pull requests. Contactez-moi à l'adresse aresbillion@gmail.com pour plus de précisions.
+Les contributions sont les bienvenues ! Veuillez consulter le fichier CONTRIBUTING.md pour les détails sur notre code de conduite et le processus de soumission des pull requests.
+

@@ -3,7 +3,7 @@ import shutil
 import datetime
 import logging
 
-
+# Set up logging
 logging.basicConfig(level=logging.INFO, format='%(asctime)s - %(levelname)s - %(message)s')
 
 class Saver:
@@ -73,11 +73,11 @@ class Saver:
                     logging.error(f"Error deleting old save {old_save}: {str(e)}")
 
 if __name__ == "__main__":
-    # Exemple usage
+    # Example usage
     saver = Saver("C:/AutoSavePro/Saves")
     
-  
-    saved_path = saver.save_file("C:/Users/Silicon valley/Documents/test.txt", "BlocNotes")
+    # Save a file
+    saved_path = saver.save_file("C:/Users/YourUsername/Documents/test.txt", "BlocNotes")
     if saved_path:
         logging.info(f"File saved successfully: {saved_path}")
     else:
@@ -90,7 +90,7 @@ if __name__ == "__main__":
     
     # Restore the most recent save
     if saves:
-        if saver.restore_file(saves[0], "C:/Users/Documents/test.txt"):
+        if saver.restore_file(saves[0], "C:/Users/YourUsername/Documents/test.txt"):
             logging.info("File restored successfully")
         else:
             logging.error("Failed to restore file")
